@@ -1,4 +1,4 @@
-package test.type;
+package z_test.type;
 
 public class Arr1 {
     public static void main(String[] args) {

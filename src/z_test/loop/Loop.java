@@ -1,4 +1,4 @@
-package test.loop;
+package z_test.loop;
 
 public class Loop {
     public static void main(String[] args) {

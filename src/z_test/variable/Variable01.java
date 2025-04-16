@@ -1,4 +1,4 @@
-package test.variable;
+package z_test.variable;
 
 public class Variable01 {
     public static void main(String[] args) {

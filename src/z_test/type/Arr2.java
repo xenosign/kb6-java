@@ -1,4 +1,4 @@
-package test.type;
+package z_test.type;
 
 import java.util.Arrays;
 

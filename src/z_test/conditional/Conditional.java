@@ -1,4 +1,4 @@
-package test.conditional;
+package z_test.conditional;
 
 public class Conditional {
     public static void main(String[] args) {
